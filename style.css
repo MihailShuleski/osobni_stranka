@@ -33,7 +33,7 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #11141a;
+    --bg: #2e3136;
     --surface: #1b202b;
     --text: #f3f5f8;
     --accent: #7ab8ff;
